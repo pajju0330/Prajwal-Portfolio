@@ -6,8 +6,8 @@ import worldmap from './backgrounds/world-map.png';
 import logo from './logo/Prajwal.png';
 import logotext from './logo/logo-text-black.png';
 
-import shaq from './personal/shaq.png';
-import PrajwalResume from './personal/PrajwalResume.pdf'
+
+import PrajwalResume from './personal/Prajwalresume23.pdf'
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -48,7 +48,7 @@ import oaknst from './company/oaknst.png';
 import chatio from './projects/chatio.png';
 import upBeat from './projects/upBeat.png';
 import Ecomm from './projects/Ecomm.png';
-import movie from './projects/movie-metro.png';
+import movie from './projects/medi-raksha.jpg';
 import auth from './projects/auth.png';
 import space from './projects/space-hub.png';
 
@@ -60,7 +60,6 @@ export {
   worldmap,
   logo,
   logotext,
-  shaq,
   backend,
   ux,
   frontend,

@@ -135,7 +135,7 @@ const experiences = [
   }
 ];
 
-const projects = [
+const   projects = [
   {
     id: 'project-1',
     name: 'Chat-io',
@@ -222,8 +222,8 @@ const projects = [
       },
     ],
     image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    repo: 'https://github.com/NeutronHive/MediRaksha-ACM',
+    demo: 'https://github.com/NeutronHive/MediRaksha-ACM',
   },
   {
     id: 'project-5',
